@@ -1,0 +1,28 @@
+name: Arcticor
+favicon: null
+layout_spectrum: 0.38853443088009953
+typography_spectrum: 0.14588530757464468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21554216998629272
+  lightness: 0.053171205800026655
+  saturation: 0.5633280233014375
+  rhythmicContrast: 0.7458881686907262
+purpose: []
